@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "db977674-9a64-75c4-b362-3160cf49d6d3",
+   "title": "Programming languages and translators",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Programming-languages-and-translators-db97.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "98f1a28a-4374-4065-c9a8-80bfea9dd080",
+   "title": "Programming languages",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Programming-languages-98f1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8cd74134-20b2-b581-2685-92f2f57c055a",
+   "title": "Assembly language",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Assembly-language-8cd7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e4e18589-5e12-14ea-f94a-2ba1f6e8befb",
+   "title": "High level languages",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/High-level-languages-e4e1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f40fab6e-05ca-a4f8-7c81-0af3e82ecde8",
+   "title": "Translators",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Translators-f40f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "872cc666-69ce-0000-c976-407c4d798ff7",
+   "title": "Assembler",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Assembler-872c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4a5d08b7-afa1-1be6-02af-aa7aec433069",
+   "title": "Compilers and interpreters",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Compilers-and-interpreters-4a5d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "07bb6f39-80a8-51c9-a07f-24dd7add9f54",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-07bb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "245b88b8-9068-7451-182e-7446d6f72bb8",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-245b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

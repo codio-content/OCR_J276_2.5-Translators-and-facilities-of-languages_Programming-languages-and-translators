@@ -1,0 +1,106 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1916885814",
+  "source": {
+   "name": "Question 1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The only language that a computer can understand is <<<machine code>>>.  The instructions consist of <<<strings>>> of 1s and 0s. To assist programmers <<<assembly language>>> uses <<<mnemonics>>> to represent the <<<binary>>> instructions. These two languages are called <<<low level>>> languages.",
+   "tokens": {
+    "blank": [
+     "machine code",
+     "strings",
+     "assembly language",
+     "mnemonics",
+     "binary",
+     "low level"
+    ],
+    "text": [
+     "The only language that a computer can understand is ",
+     0,
+     ".  The instructions consist of ",
+     0,
+     " of 1s and 0s. To assist programmers ",
+     0,
+     " uses ",
+     0,
+     " to represent the ",
+     0,
+     " instructions. These two languages are called ",
+     0,
+     " languages."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1732812835",
+  "source": {
+   "name": "Question 2",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "<<<High level>>> languages are more similar to human languages and contain data <<<structures>>> and <<<constructs>>>. Most software is written using these languages as they have a faster <<<development>>> time and are they are <<<portable>>> between different types of CPU.\n",
+   "tokens": {
+    "blank": [
+     "High level",
+     "structures",
+     "constructs",
+     "development",
+     "portable"
+    ],
+    "text": [
+     0,
+     " languages are more similar to human languages and contain data ",
+     0,
+     " and ",
+     0,
+     ". Most software is written using these languages as they have a faster ",
+     0,
+     " time and are they are ",
+     0,
+     " between different types of CPU.\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1345180266",
+  "source": {
+   "name": "Question 3",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "An <<<assembler>>> translates <<<assembly language>>> instructions into <<<machine code>>>. Compilers and <<<interpreters>>> carry out the translation for <<<high level>>> languages.",
+   "tokens": {
+    "blank": [
+     "assembler",
+     "assembly language",
+     "machine code",
+     "interpreters",
+     "high level"
+    ],
+    "text": [
+     "An ",
+     0,
+     " translates ",
+     0,
+     " instructions into ",
+     0,
+     ". Compilers and ",
+     0,
+     " carry out the translation for ",
+     0,
+     " languages."
+    ]
+   }
+  }
+ }
+]
